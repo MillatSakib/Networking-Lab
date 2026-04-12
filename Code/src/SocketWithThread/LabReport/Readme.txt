@@ -1,0 +1,3 @@
+The question is
+
+Create a basic thread application for multiple clients to be connected to a single server. Here, each client sends a string to the single server. The server returns the string in all uppercase to that client. The server can serve at most 5 clients in its lifetime. If the 6th client comes to get connected or just completes giving service to exactly 5 clients, the server closes down automatically.
